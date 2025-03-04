@@ -2,19 +2,30 @@
 
 ## Objective:
 
-#### Vrinda Store wants to create an annnual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+#### Vrinda Store wants to create an annnual sales report. So that, Vrinda can understand their customers and grow more sales.The dashboard provides an overview of sales performance and customer demographics for Vrinda Store.
+
+
+## Insights from the Dashboard
+#### - Sales Performance : The sales amount peaked at approximately 2.00 million during March and gradually declined towards the end of the year.The count of orders shows a decreasing trend in latter months.
 
 
 
-## Dashboard Design:
-#### Order vs Sales: Line chart for comparing order count and total sales across months.
-#### Sales: Top 5 Sales: Bar chart to visualize top 5 states based on sales.
-#### Sales: Women vs Men: Pie chart to display the sales ratio between men and women.
-#### Orders: Channels: Pie chart to display the sales channel distribution.
-#### Orders: Age vs Gender: Bar chart to compare the sales distribution across age groups and gender.
-#### Filters: Drop-down lists for filtering data by month, channel, and category.
+
+#### - Top 5 Regions for Sales : The highest sales were recorded from Maharashtra with 2,990,221.
 
 
-## Overall Conclusion:
+#### - Gender Distribution in Sales : Women accounted for 64% of total sales, significantly higher than Men at 36%.
+ 
 
-#### Vrinda Store has experienced a significant increase in sales and orders during the first quarter of the year. While sales have decreased towards the end of the year, the business remains successful. Women make up the majority of Vrinda's customers, and the majority of sales are driven by adult women. Amazon is the most popular sales channel, followed by Flipkart. The business also sees a significant number of sales through Myntra, Meesho, Ajio, Nall, and other channels. It appears that the store has a strong base of adult female customers and relies heavily on Amazon as a sales channel. However, the store also performs well across a range of other channels and age groups.
+#### - Age vs. Gender Analysis : The Adult demographic contributed the most with 34.59% (Women leading with higher percentages).
+ 
+
+#### - Sales Channels Contribution : Amazon was the leading sales channel with 35% of total orders.Other channels included Myntra (23%), Flipkart (22%), and Meesho and Ajio, both at 5%, indicating a strong preference for Amazon.
+
+
+
+## Final Conclusion to improve Vrinda store sales:
+
+#### - Target women customers of age group (30-49 yrs) living in Maharastra,Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon,Flipkart and Myntra.
+#### - Improving website user experience and social meadia engagement can increase online conversions.
+#### - Particularly targeting more styles or items for adults, who represent a significant portion of orders (34.59%).
